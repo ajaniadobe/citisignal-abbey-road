@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p142460-e1463132.adobeaemcloud.com//bin/franklin.delivery/deckreyes/citisignal-abbey-road/main"
+    url: "https://author-p142460-e1463132.adobeaemcloud.com/bin/franklin.delivery/deckreyes/citisignal-abbey-road/main"
     type: "markup"
     suffix: ".html"
 

@@ -421,7 +421,7 @@
                   "template": {
                     "name": "Quote",
                     "model": "quote",
-                    "quote": "Enter quote here",
+                    "quote": "<quote>Enter quote here</quote>",
                     "author": "Attribute author here"
                   }
                 }
