@@ -1,19 +1,19 @@
 {
     "mappings": [
-      "/content/citisignal-edge-delivery/:/",
-      "/content/citisignal-edge-delivery/configuration:/.helix/config.json",
-      "/content/citisignal-edge-delivery/metadata:/metadata.json",
-      "/content/citisignal-edge-delivery/configs:/configs.json",
-      "/content/citisignal-edge-delivery/configs-stage:/configs-stage.json",
-      "/content/citisignal-edge-delivery/configs-dev:/configs-dev.json",
-      "/content/citisignal-edge-delivery/redirects:/redirects.json",
-      "/content/citisignal-edge-delivery/placeholders:/placeholders.json",
-      "/content/citisignal-edge-delivery/products/recommended-products:/products/recommended-products.json",
-      "/content/citisignal-edge-delivery/enrichment/enrichment:/enrichment/enrichment.json",
+      "/content/citisignal-abbey-road/:/",
+      "/content/citisignal-abbey-road/configuration:/.helix/config.json",
+      "/content/citisignal-abbey-road/metadata:/metadata.json",
+      "/content/citisignal-abbey-road/configs:/configs.json",
+      "/content/citisignal-abbey-road/configs-stage:/configs-stage.json",
+      "/content/citisignal-abbey-road/configs-dev:/configs-dev.json",
+      "/content/citisignal-abbey-road/redirects:/redirects.json",
+      "/content/citisignal-abbey-road/placeholders:/placeholders.json",
+      "/content/citisignal-abbey-road/products/recommended-products:/products/recommended-products.json",
+      "/content/citisignal-abbey-road/enrichment/enrichment:/enrichment/enrichment.json",
       "/content/dam/citisignal/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-edge-delivery",
+      "/content/citisignal-abbey-road",
       "/content/dam/citisignal/images/products/"
     ]
 }
