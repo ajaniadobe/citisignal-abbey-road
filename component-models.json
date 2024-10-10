@@ -829,5 +829,24 @@
           ]
         }
       ]
+    },
+    {
+      "id": "quote",
+      "fields": [
+        {
+          "component": "richtext",
+          "valueType": "string",
+          "name": "quote",
+          "value": "",
+          "label": "Quote"
+        },
+        {
+          "component": "text",
+          "name": "author",
+          "value": "",
+          "label": "Author",
+          "valueType": "string"
+        }
+      ]
     }
   ]
